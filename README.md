@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Zor365
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css and javascript    
+- 👋 Hi, I’m Rufus
+- 👀 I’m interested in Cyber security and web development
+- 🌱 I’m currently learning Networking.    
 - 💞️ I’m looking to collaborate on projects to make this learning journey intense and quick
 
 <!---
