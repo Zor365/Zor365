@@ -6,6 +6,8 @@
   - [Setting up a Virtual home lab](https://github.com/Zor365/Setting-up-a-virtual-home-lab)
 - <b>Installing Windows Server 2016 in Virtualbox </b>
   - [Installing Windows Server 2016 in Virtualbox](https://github.com/Zor365/Installing-Windows-Server-2016-in-virtual-box-)
+- <b>Nessus setup in Kali-linux </b>
+  - [Nessus setup in Kali-linux](https://github.com/Zor365/Nessus-Setup-in-Kali-Linux)
 
 
 <h2> Certifications</h2>
